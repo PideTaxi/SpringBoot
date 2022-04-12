@@ -1,0 +1,6 @@
+com\mycompany\servicio\PersonaService.class
+com\mycompany\domain\Persona.class
+com\mycompany\web\ControladorInicio.class
+com\mycompany\dao\PersonaDao.class
+com\mycompany\HolaSpringApplication.class
+com\mycompany\servicio\PersonaServiceImpl.class
